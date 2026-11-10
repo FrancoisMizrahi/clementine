@@ -2,6 +2,10 @@
 
 A menu-bar file utility for macOS: drag any file, hold a modifier key, and a radial wheel appears under the cursor with everything you can do to that file. Drop on a petal and the result lands next to the original. The interaction is inspired by Tangerine for Mac; the code is an independent implementation.
 
+<p align="center">
+  <img src="docs/media/wheel-demo.gif" width="480" alt="Dragging an image with Shift held opens the Convert wheel and petals light up under the cursor; switching to Control shows the Actions wheel">
+</p>
+
 - **⇧ while dragging: Convert.** Images, audio, video, PDF, Word, RTF, HTML, Markdown and text to other formats.
 - **⌘ while dragging: Tools.** Compress, resize, strip metadata, rotate, OCR, read QR codes, merge, split or compress PDFs, mute or speed up video, extract audio, zip, checksum.
 - **⌃ while dragging: Actions.** Copy path, copy files, reveal, open a terminal there, AirDrop, move to Trash, or park the files in a **Float**, a small always-on-top shelf you can drag out of later.
